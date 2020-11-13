@@ -1,0 +1,38 @@
+body
+{
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container
+{
+    border: 1px solid #cccccc;
+    margin: 0 auto;
+    text-align: left;
+    width: 70%;
+    padding: 1em;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+
+#cabecera
+{
+    background: blue;
+    box-shadow: 0px 20px 20px 0px rgba(0,0,0,0.5);
+    color: silver;
+    margin: 0px;
+    padding: 0.5em;
+    font-weight: bold;
+}
+#cabecera #line{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
